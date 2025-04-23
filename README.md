@@ -18,8 +18,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0001-two-sum) |
+| [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0009-palindrome-number) |
+| [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 <!---LeetCode Topics End-->

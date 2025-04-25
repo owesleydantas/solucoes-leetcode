@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2915-count-of-interesting-subarrays) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |

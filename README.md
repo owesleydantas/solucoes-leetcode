@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->

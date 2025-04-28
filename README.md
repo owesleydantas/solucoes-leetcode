@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Queue
 |  |
 | ------- |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 <!---LeetCode Topics End-->

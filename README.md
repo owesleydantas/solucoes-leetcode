@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2551-apply-operations-to-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## String
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Interactive

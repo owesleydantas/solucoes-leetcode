@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0135-candy](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0303-range-sum-query-immutable) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0135-candy) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Monotonic Stack
 |  |

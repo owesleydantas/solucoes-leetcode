@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0118-pascals-triangle) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -226,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

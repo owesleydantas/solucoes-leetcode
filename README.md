@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Queue
 |  |

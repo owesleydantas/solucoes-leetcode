@@ -1,8 +1,6 @@
 class Solution:
     def bestHand(self, ranks: List[int], suits: List[str]) -> str:
         r = [0] * 14
-        n = len(suits)
-
         for i in range(1, len(suits)):
             if (suits[i - 1] != suits[i]):
                 break

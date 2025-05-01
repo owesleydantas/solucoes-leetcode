@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0898-transpose-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0898-transpose-matrix) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

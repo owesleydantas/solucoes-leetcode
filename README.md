@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0898-transpose-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0898-transpose-matrix) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0135-candy) |
 | [0605-can-place-flowers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0605-can-place-flowers) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |

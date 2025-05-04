@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0898-transpose-matrix) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Queue

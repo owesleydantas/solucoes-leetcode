@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
+| [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String Matching
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0868-push-dominoes) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -294,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->

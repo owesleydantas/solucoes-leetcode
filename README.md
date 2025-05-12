@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
+| [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [0806-domino-and-tromino-tiling](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0868-push-dominoes) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
@@ -305,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

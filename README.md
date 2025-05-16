@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1833-find-the-highest-altitude](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
+| [1833-find-the-highest-altitude](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |

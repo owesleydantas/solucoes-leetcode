@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1833-find-the-highest-altitude](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2478-longest-nice-subarray](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sliding Window
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-push-dominoes](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0868-push-dominoes) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2727-number-of-senior-citizens](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2433-best-poker-hand](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2433-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Monotonic Queue

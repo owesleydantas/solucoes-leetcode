@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
 | [0898-transpose-matrix](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0898-transpose-matrix) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
 | [0868-push-dominoes](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0868-push-dominoes) |
 | [1524-string-matching-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1848-sum-of-unique-elements) |

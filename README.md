@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0506-relative-ranks) |
 | [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0598-range-addition-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0506-relative-ranks) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path

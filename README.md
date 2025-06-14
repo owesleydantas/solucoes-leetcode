@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1500-count-largest-group) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3637-count-number-of-balanced-permutations](https://github.com/owesleydantas/solucoes-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Two Pointers
 |  |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Monotonic Stack
 |  |
 | ------- |

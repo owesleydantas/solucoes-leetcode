@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0598-range-addition-ii) |
 | [1115-valid-boomerang](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1115-valid-boomerang) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
+| [0202-happy-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0455-assign-cookies) |

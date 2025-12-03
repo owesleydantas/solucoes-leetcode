@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0506-relative-ranks) |
 | [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0496-next-greater-element-i) |
 ## Enumeration
 |  |
 | ------- |

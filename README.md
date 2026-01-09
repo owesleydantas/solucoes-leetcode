@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0598-range-addition-ii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |

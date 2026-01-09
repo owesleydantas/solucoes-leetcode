@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0112-path-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0112-path-sum) |
 ## Geometry
 |  |
 | ------- |
@@ -384,11 +386,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0463-island-perimeter) |
 ## Counting Sort
 |  |

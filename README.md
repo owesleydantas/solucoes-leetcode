@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0526-beautiful-arrangement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/owesleydantas/solucoes-leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0387-first-unique-character-in-a-string](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0415-add-strings) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0837-most-common-word](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0837-most-common-word) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/owesleydantas/solucoes-leetcode/tree/master/0506-relative-ranks) |
